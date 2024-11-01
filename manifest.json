@@ -3,9 +3,9 @@
   "header": {
     "name": "pack.name",
     "description": "pack.description",
-    "min_engine_version": [1, 21, 0],
+    "min_engine_version": [1, 21, 40],
     "uuid": "0ed11c13-72d6-453c-9685-14167b17d63a",
-    "version": [2, 2, 1]
+    "version": [2, 2, 2]
   },
   "modules": [
     {
@@ -26,11 +26,11 @@
   "dependencies": [
     {
       "module_name": "@minecraft/server",
-      "version": "1.12.0-beta"
+      "version": "1.16.0-beta"
     },
     {
       "module_name": "@minecraft/server-ui",
-      "version": "1.2.0-beta"
+      "version": "1.3.0"
     }
   ],
   "metadata": {
